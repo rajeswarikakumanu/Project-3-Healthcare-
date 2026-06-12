@@ -1,0 +1,8 @@
+age,bmi,blood_pressure,glucose,cholesterol,disease
+45,30,140,180,220,Diabetes
+50,32,150,200,240,Diabetes
+35,25,120,100,180,Healthy
+60,29,160,250,260,Heart Disease
+28,22,110,90,170,Healthy
+55,31,170,230,280,Heart Disease
+40,27,130,120,190,Healthy

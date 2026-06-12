@@ -1,0 +1,7 @@
+patient_id,name,age,gender,weight,height,blood_group,medical_history,allergies,insurance
+P001,Rajesh,45,Male,72.0,170.0,B+,Diabetes,,Yes
+P002,Priya,32,Female,60.0,160.0,O+,Hypertension,Penicillin,No
+P003,Amit,55,Male,80.0,175.0,A+,Heart Disease,,Yes
+P004,Anjali,28,Female,55.0,158.0,AB+,Asthma,Dust,Yes
+P005,Kiran,40,Male,75.0,172.0,O-,,,No
+101,Vasavi,20,Female,50.0,190.0,O+,,,

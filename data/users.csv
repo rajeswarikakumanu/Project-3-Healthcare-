@@ -1,0 +1,6 @@
+user_id,username,password,role
+1,admin,admin123,Admin
+2,doctor1,doctor123,Doctor
+3,patient1,patient123,Patient
+4,raji,Raji@1,Patient
+5,rajeswari,Raji@1,Patient

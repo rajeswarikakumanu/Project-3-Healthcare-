@@ -1,0 +1,6 @@
+age,bmi,disease,severity,icu_required,recovery_probability,stay_days
+45,30,Diabetes,Medium,No,85,5
+60,32,Heart Disease,High,Yes,60,12
+35,24,Healthy,Low,No,98,2
+55,31,Kidney Disease,High,Yes,55,15
+28,22,Healthy,Low,No,99,1

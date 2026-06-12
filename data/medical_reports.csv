@@ -1,0 +1,8 @@
+report_id,patient_id,report_type,report_date,result,risk_level,patient_name,blood_sugar,cholesterol,blood_pressure
+MR001,P001,Blood Test,2026-06-01,High Glucose,High,,,,
+MR002,P002,ECG,2026-06-03,Normal,Low,,,,
+MR003,P003,MRI,2026-06-05,Mild Abnormality,Medium,,,,
+MR004,P004,X-Ray,2026-06-07,Normal,Low,,,,
+MR005,P005,CT Scan,2026-06-08,Observation Required,Medium,,,,
+,101,Blood Test,,,Low,Vasavi,100.0,180.0,120.0
+,,Blood Test,,,Low,,100.0,180.0,120.0

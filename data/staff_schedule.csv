@@ -1,0 +1,5 @@
+staff_id,name,role,shift,start_time,end_time
+S001,Ramesh,Doctor,Morning,08:00,14:00
+S002,Sita,Nurse,Morning,08:00,14:00
+S003,Ravi,Doctor,Evening,14:00,20:00
+S004,Anu,Nurse,Night,20:00,08:00

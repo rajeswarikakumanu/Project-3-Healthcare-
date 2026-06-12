@@ -1,0 +1,7 @@
+doctor_id,name,specialization,experience,qualification,availability
+D001,Dr. Sharma,Cardiology,15,MD,Available
+D002,Dr. Reddy,Neurology,12,DM,Available
+D003,Dr. Priya,General Medicine,8,MBBS,Available
+D004,Dr. Kumar,Orthopedics,10,MS,Busy
+D005,Dr. Anitha,Pediatrics,7,MD,Available
+120,Vasavi,Cardiology,7,MBBS,Busy

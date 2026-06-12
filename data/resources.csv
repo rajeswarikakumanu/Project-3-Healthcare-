@@ -1,0 +1,6 @@
+resource_id,resource_name,total_units,available_units,status
+R001,Beds,200,50,Available
+R002,Ventilators,50,15,Available
+R003,Oxygen Cylinders,300,120,Available
+R004,ECG Machines,25,10,Available
+R005,MRI Machines,10,2,Limited

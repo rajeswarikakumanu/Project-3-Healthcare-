@@ -1,0 +1,8 @@
+notification_id,user_id,message,date,status,user
+N001,P001,Appointment Reminder,2026-06-14,Sent,
+N002,P002,Lab Report Ready,2026-06-15,Sent,
+N003,P003,Medicine Reminder,2026-06-16,Pending,
+N004,,Your appointment has been approved by the doctor.,,Unread,
+N005,,Your appointment has been approved by the doctor.,,Unread,
+N006,,Your appointment has been approved by the doctor.,,Unread,raji
+N007,,Your appointment has been approved by the doctor.,,Unread,raji
